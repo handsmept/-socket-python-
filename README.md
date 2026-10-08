@@ -1,0 +1,3 @@
+基于socket的python聊天室大作业
+
+学习了python的socket，用这个来练练手
